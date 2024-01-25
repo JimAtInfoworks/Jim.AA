@@ -1,0 +1,6 @@
+@IW.AA.API_HostAddress = http://localhost:5012
+
+GET {{IW.AA.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
